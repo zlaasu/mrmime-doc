@@ -11,13 +11,13 @@ Komenda: ::
 *Wypisze komendy, które można wykorzystać.*
 
 
-Dodawanie pokemonów wykonuje się za pomocą komendy: ::
+**Dodawanie pokemonów** wykonuje się za pomocą komendy: ::
 
   !addpokemon <pokemon list> <miniv,maxiv> <mincp,maxcp> <minlvl,maxlvl> <location list>
 
 W tej komendzie każdy z filtrów, oprócz lokacji, jest opcjonalny (bez podania lokacji komenda nie zostanie przyjęta). 
 
-Przykłady użycia: ::
+**Przykłady użycia:** ::
 
   !addpokemon lapras warszawa  
-* ...powiadomienia o laprasach w obszarze warszawa.*
+*...powiadomienia o laprasach w obszarze warszawa.*
