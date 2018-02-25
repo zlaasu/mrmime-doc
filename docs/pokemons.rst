@@ -51,7 +51,7 @@ W tej komendzie każdy z filtrów, oprócz lokacji, jest opcjonalny (bez podania
 ::
 
   !addpokemon <lapras, eevee, bagon> <warszawa, podkowa>
-*...powiadomienia o 3 wybranych poksach w dwóch wybranych obszarac.*
+*...powiadomienia o 3 wybranych poksach w dwóch wybranych obszarach.*
 
 
 ::
