@@ -22,6 +22,8 @@ W tej komendzie każdy z filtrów, oprócz lokacji, jest opcjonalny (bez podania
   !addpokemon lapras warszawa  
 *...powiadomienia o laprasach w obszarze warszawa.*
 
+::
+
   !addpokemon lapras <10, 20> warszawa
   !addpokemon lapras <10iv, 20iv> warszawa
 *...powiadomienia o laprasach z iv z przedziału 10-20% w obszarze warszawa.*
