@@ -4,6 +4,8 @@
 
 W tej komendzie każdy z filtrów, oprócz lokacji, jest opcjonalny (bez podania lokacji komenda nie zostanie przyjęta). 
 
+------------
+
 **Przykłady użycia:** ::
 
   !addpokemon lapras warszawa  
