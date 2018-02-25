@@ -1,5 +1,5 @@
 =================
-Raidy
+Rajdy
 =================
 
 Możesz dostawać powiadomienia o pojawieniu się określonego pokemona (lub jajka określonego poziomu trudności) w rajdzie w danym gymie lub we wszystkich gymach z określonego obszaru.
