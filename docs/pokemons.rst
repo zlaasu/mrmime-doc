@@ -1,3 +1,7 @@
+=================
+Pokemony
+=================
+
 **Dodawanie pokemonów** wykonuje się za pomocą komendy: ::
 
   !addpokemon <pokemon list> <miniv,maxiv> <mincp,maxcp> <minlvl,maxlvl> <location list>
