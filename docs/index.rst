@@ -39,6 +39,7 @@ Lista pokemonów w rajdach **obsługiwanych** przez @mr mime: ::
 --------------------
 
 Obecienie obowiązujące limity na powiadomienia @mr mime:
+
 * pokemony - 20
-* presety - 5
 * raidy - 10
+* presety - 5
