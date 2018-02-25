@@ -10,6 +10,7 @@ Komenda: ::
   
 *Wypisze komendy, które można wykorzystać.*
 
+:doc:`Pokemony </pokemons>`
 
 **Dodawanie pokemonów** wykonuje się za pomocą komendy: ::
 
