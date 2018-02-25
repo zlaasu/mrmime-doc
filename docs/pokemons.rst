@@ -61,7 +61,7 @@ W tej komendzie każdy z filtrów, oprócz lokacji, jest opcjonalny (bez podania
 
 ------------
 
-Usuwanie pojedynczych powiadomień – ta sama konfiguracja poprzedzona komendą **!delpokemon** np.: ::
+Usuwanie pojedynczych powiadomień – **DOKŁADNIE ta sama konfiguracja** poprzedzona komendą **!delpokemon** np.: ::
 
   !delpokemon <lapras, eevee, bagon> <10iv, 20iv> <10cp, 20cp> <lvl5, lvl15> <warszawa, podkowa> 
   
