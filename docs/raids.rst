@@ -7,6 +7,7 @@ Dodawanie rajdu do powiadomień wykonuje się za pomocą komendy: ::
 Należy podać pokemony i lokację. Poniżej przykłady:
 
 ::
+
   !addraid lapras warszawa
   
 ...powiadomienia o laprasach w rajdach obszarze warszawa.
