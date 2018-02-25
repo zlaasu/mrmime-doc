@@ -13,4 +13,4 @@ Dodawanie pokemonów wykonuje się za pomocą komendy: ::
 W tej komendzie każdy z filtrów, oprócz lokacji, jest opcjonalny (bez podania lokacji komenda nie zostanie przyjęta). 
 Przykłady: ::
   !addpokemon lapras warszawa
-* ...powiadomienia o laprasach w obszarze warszawa*
+* ...powiadomienia o laprasach w obszarze warszawa.*
