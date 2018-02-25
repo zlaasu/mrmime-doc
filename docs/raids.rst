@@ -52,7 +52,7 @@ Poniżej przykłady użycia:
 
 ---------------------
 
-Usuwanie pojedynczych powiadomień – ** DOKŁADANIE ta sama konfiguracja** poprzedzona komendą **!delraid** np.: ::
+Usuwanie pojedynczych powiadomień – **DOKŁADANIE ta sama konfiguracja** poprzedzona komendą **!delraid** np.: ::
 
   !delraid lapras <WKD Podkowa Leśna Główna> podkowa
   
