@@ -43,3 +43,7 @@ Obecienie obowiązujące limity na powiadomienia @mr mime:
 * pokemony - 20
 * rajdy - 10
 * presety - 5
+
+------------------
+
+Mapkę z aktualnymi regionami @mr mime znajdziesz tu: https://goo.gl/rJM1pX
