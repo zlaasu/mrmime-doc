@@ -2,7 +2,7 @@ Możesz dostawać powiadomienia o pojawieniu się określonego pokemona (lub jaj
 
 Dodawanie rajdu do powiadomień wykonuje się za pomocą komendy: ::
 
-  !addraid <pokemon list> <location list>
+  !addraid <pokemon list> <gym name> <location list>
   
 Należy podać pokemony i lokację. 
 
@@ -18,7 +18,7 @@ Poniżej przykłady użycia:
 
 ::
 
-  !addraid <lapras, rayquaza> <warszawa, podkowa
+  !addraid <lapras, rayquaza> <warszawa, podkowa>
   
 ...powiadomienia o laprasach i rayquazach w rajdach obszarach warszawa i podkowa.
 
