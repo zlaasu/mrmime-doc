@@ -17,3 +17,10 @@ Mr mime to bot do wysyłania spersonalizowanych wiadomości o pokemonach z map z
 :doc:`Rajdy </raids>`
 
 
+----------------
+
+::
+
+  !settings
+  
+*...wypisuje ustawione powiadomienia.*
