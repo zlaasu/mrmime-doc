@@ -34,3 +34,11 @@ Lista pokemonów **nie obsługiwanych** przez @mr mime: ::
 Lista pokemonów w rajdach **obsługiwanych** przez @mr mime: ::
 
   2,5,8,11,28,31,34,38,62,65,68,71,73,76,82,91,94,105,123,129,131,137,139,143,144,145,146,150,243,244,245,248,249,302,303,359,382,383,384
+
+
+--------------------
+
+Obecienie obowiązujące limity na powiadomienia @mr mime:
+* pokemony - 20
+* presety - 5
+* raidy - 10
