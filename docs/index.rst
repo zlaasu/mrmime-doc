@@ -65,7 +65,21 @@ W tej komendzie każdy z filtrów, oprócz lokacji, jest opcjonalny (bez podania
 *...powiadomienia o 3 wybranych poksach w dwóch wybranych obszarac.*
 
 
+::
 
+  !addpokemon <lapras, eevee, bagon> <10iv, 20iv> <10cp, 20cp> <lvl5, lvl15> <warszawa, podkowa>
+*...powiadomienia o 3 wybranych poksach, o wskazanych przedziałach iv, cp i lvl w dwóch wybranych obszarach.*
 
+------------
+
+Usuwanie pojedynczych powiadomień – ta sama konfiguracja poprzedzona komendą **!delpokemon** np.: ::
+
+  !delpokemon <lapras, eevee, bagon> <10iv, 20iv> <10cp, 20cp> <lvl5, lvl15> <warszawa, podkowa> 
+  
+
+::
+
+  !resetpokemon
+*...usuwanie wszystkich powiadomień dodanych przez !addpokemon.*
 
 
