@@ -1,3 +1,7 @@
+=================
+Raidy
+=================
+
 Możesz dostawać powiadomienia o pojawieniu się określonego pokemona (lub jajka określonego poziomu trudności) w rajdzie w danym gymie lub we wszystkich gymach z określonego obszaru.
 
 Dodawanie rajdu do powiadomień wykonuje się za pomocą komendy: ::
