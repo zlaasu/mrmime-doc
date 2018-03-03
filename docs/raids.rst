@@ -34,19 +34,19 @@ Poniżej przykłady użycia:
 
 ::
 
-  !addraid egglvl5 <WKD Podkowa Leśna Główna> podkowa
+  !addraid egg5 <WKD Podkowa Leśna Główna> podkowa
   
 ...powiadomienia o jajkach o poziomie trudności 5 dla gymu - WKD Podkowa Leśna Główna, obszar podkowa – zawsze trzeba podać obszar, w którym znajduje się gym.
 
 ::
 
-  !addraid egglvl5 <WKD Podkowa Leśna Główna> podkowa
+  !addraid egg5 <WKD Podkowa Leśna Główna> podkowa
   
 ...powiadomienia o jajkach o poziomie trudności 5 dla gymu - WKD Podkowa Leśna Główna, obszar podkowa – zawsze trzeba podać obszar, w którym znajduje się gym.
 
 ::
 
-  !addraid <egglvl1, egglvl5> <podkowa, warszawa>
+  !addraid <egg1, egg5> <podkowa, warszawa>
   
 ...powiadomienia o jajkach o poziomie trudności 1 i 5 dla gymów z obszarów warszawa i podkowa.
 
